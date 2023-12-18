@@ -11,3 +11,5 @@ Disclaimer
 Este código é apenas para fins educacionais e não deve ser usado para fins maliciosos. O uso deste código é de sua responsabilidade e você deve estar ciente dos riscos envolvidos.
 
 Este código não é afiliado ao Facebook e não é suportado pelo Facebook. O Facebook não é responsável por qualquer dano ou perda que possa resultar do uso deste código.
+
+![image](https://github.com/raphntc/Login-Facebook/assets/112436208/475dcaf4-8e34-4542-836b-171a38f21e55)
